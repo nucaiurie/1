@@ -1,1 +1,1 @@
-#I'm learning Python, this is my learning repository
+I'm learning Python, this is my learning repository
