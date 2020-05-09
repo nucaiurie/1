@@ -1,4 +1,4 @@
 S = 'spam"s'
 S = "spam's"
-c = 'this is a long
-    long string'
+c = '''this is a long
+    long string'''
