@@ -1,4 +1,4 @@
-print('Hello')
-a=1; b=2
-if (a==1):
-    b=3
+S = 'spam"s'
+S = "spam's"
+c = 'this is a long
+    long string'
